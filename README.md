@@ -7,4 +7,12 @@ Description: The webs app will be a full stack site using React.js as the fronte
 
 The web app can also have the capability to allow users to login with their Google account and leave reviews and comments on the website itself. This website will be more convenient than Yelp because it will allow you to look through diet restrictions (vegetarian, halal, etc.) and price options (will be in ten dollar increments) more easily and more accurately. There can be a sidebar on the website to let you look through restaurants you have visited, saved, and reviewed. There could also be a section on the sidebar to report bugs and request new features. 
 
-Primary Users: 
+Primary Users: The primary users of this product will be people living in/near NYC who want to try new foods while being conscious of price and/or their diet. Users who are somewhat dissatisfied with current options like Google Maps or Yelp would most likely want to try and use this product.
+
+Features: Display nearby restaurants and food carts based on location, allow users to browse restaurant options by filtering through price and dietary restrictions, allow users to leave reviews and comments, allow users to login and and save their browsing session (saved restaurants, etc.).
+
+Benefits:
+- Will contain the most accurate pricing and dietary information as opposed to Yelp and Google Search/Maps
+- Can discover lesser known restaurants near the user
+- Convenient way to view the dietary restrictions as opposed to Yelp
+- Can leave comment/reviews and save your favorite restaurants
